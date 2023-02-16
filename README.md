@@ -28,7 +28,7 @@ RED NEURONAL - REGRESION - CLASIFICACIÓN - RANDOMFOREST - SVC - PYTHON - Gaussi
 
 ## Enlaces
 
-[NOTEBOOK](https://colab.research.google.com/drive/1gEy2kl656Cppxzw3NJ3bhvkbL6SNqsPz?usp=sharing)
+[NOTEBOOK COLAB](https://colab.research.google.com/drive/1gEy2kl656Cppxzw3NJ3bhvkbL6SNqsPz?usp=sharing)
 
 [VIDEO](www.yputube.com)
 
